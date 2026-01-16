@@ -1,16 +1,24 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+## ⚖️ Flutter Project Showcase | BMI Calculator App
 
-## Getting Started
+I developed a BMI Calculator Application using Flutter and Dart to practice building reusable UI components and handling real-time calculations.
 
-This project is a starting point for a Flutter application.
+🔹 Key features:
 
-A few resources to get you started if this is your first Flutter project:
+       • Real-time BMI calculation based on user input
+       
+       • Reusable custom widgets for a clean and scalable UI
+       
+       • Simple and intuitive design for better usability
+       
+       • Focus on accurate calculations and smooth interaction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project helped me strengthen my understanding of widget reusability, UI structuring, and managing user input efficiently in Flutter. It was a great exercise in building logic-driven yet user-friendly applications.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Feedback and suggestions are welcome!
+
+## Live Preview
+
+https://github.com/user-attachments/assets/0965cc72-dfab-4ad2-98de-81bdaebd90dd
+
